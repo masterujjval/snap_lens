@@ -1,5 +1,5 @@
 # GoldenEyes
-It is a SnapChat Lens created by me and my friend Ujjwal Gupta for Hackathon.
+It is a SnapChat Lens created by me and my friend Athrva Deshmukh for Hackathon.
 The Hackathon was condected by Snapchat and Hack2Skill.com
 We have created an eyeball lens in this hackathon.
 
