@@ -20,6 +20,11 @@ I recieved a badge from SnapChat and Hack2Skill for this AR lens created by us
 
 
 
+![Hack2skill-Certificate](https://github.com/masterujjval/snap_lens/assets/64778409/2440b29f-058c-41a6-8023-50f349a45fe5)
+
+
+
+
 
 # **How to Use This Lens in your System** 
                                                    
